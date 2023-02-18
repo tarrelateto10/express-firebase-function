@@ -1,0 +1,24 @@
+{
+  "name": "express-firebase-function",
+  "version": "0.0.0",
+  "description": "how to create express on firebase function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarrelateto10/express-firebase-function.git"
+  },
+  "keywords": [
+    "express",
+    "firebase",
+    "function"
+  ],
+  "author": "Jirawat Promsee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarrelateto10/express-firebase-function/issues"
+  },
+  "homepage": "https://github.com/tarrelateto10/express-firebase-function#readme"
+}
